@@ -1,7 +1,7 @@
 # Olá, sou Matheus Fonseca! 👋
 🎓 Estudante do Centro de Educação Celso Suckow da Fonseca (CEFET-RJ)  
 💻 Cursando o 3º ano de Informática  
-📫 Contato: matheussantosfonseca07@gmail.com  👋
+📫 Contato: matheussantosfonseca07@gmail.com  
 
 ---
 
